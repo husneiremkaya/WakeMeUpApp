@@ -1,7 +1,7 @@
 import * as firebase from 'firebase';
 
 const firebaseConfig = {
-            apiKey: "",
+            apiKey: "Kişisel Api",
             authDomain: "mobil-12605.firebaseapp.com",
             databaseURL: "https://mobil-12605.firebaseio.com/",
             projectId: "mobil-12605",

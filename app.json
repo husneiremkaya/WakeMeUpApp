@@ -22,7 +22,7 @@
     "android": {
       "config":{
         "googleMaps": {
-          "apiKey": ""
+          "apiKey": "Kişisel Api"
         }
       },
       "adaptiveIcon": {
