@@ -6,7 +6,7 @@ import {CustomHeader} from '../drawer'
 
 const { width, height } = Dimensions.get('window');
 const ASPECT_RATIO = width / height;
-const GOOGLE_MAPS_API_KEY = 'AIzaSyD5PYmI45nrq6W_23uJCCJQDF_z9gziQtU'; 
+const GOOGLE_MAPS_API_KEY = ''; 
 const LATITUDE = 40.776685;
 const LONGITUDE = 30.234491;
 const LATITUDE_DELTA = 0.9522;
